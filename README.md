@@ -57,7 +57,7 @@ Hello! I'm Divyansh Jha, a passionate software developer with a love for creatin
   </div>
 
 
-## 📫 Contact
+## 📫 Contact Me
 
 <a href="mailto:djhadjha188@gmail.com">
   <img src="https://github.com/Divyansh-Jha/Divyansh-Jha/blob/main/images/gmail.gif?raw=true" alt="Gmail GIF" width="150" height="150">
