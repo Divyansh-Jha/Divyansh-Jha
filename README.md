@@ -1,14 +1,13 @@
-## Hi there 👋
-# DIVYANSH JHA
+## Hi there! Welcome to my Profile👋
 
-![Profile Banner]([https://github.com/username/repositoryname/blob/main/assets/banner.pn](https://github.com/Divyansh-Jha/Divyansh-Jha/blob/main/Candidate%20Photo_Divyansh%20Jha.png?raw=true))
+![Profile Banner](images/Divyansh.png)
 
 ## 👋 About Me
 
-Hello! I'm John Doe, a passionate software developer with a love for creating innovative solutions to challenging problems. I specialize in full-stack web development and have experience working with a variety of technologies.
+Hello! I'm Divyansh Jha, a passionate software developer with a love for creating innovative solutions to challenging problems. I specialize in full-stack web development and have experience working with a variety of technologies.
 
-- 🌱 I’m currently learning advanced JavaScript and TypeScript.
-- 🔭 I’m working on an open-source project called [AwesomeProject](https://github.com/username/AwesomeProject).
+- 🌱 I’m currently learning advanced Data Science and Machine Learning.
+- 🔭 I have a background in Electronics Engineering and have interests in Web Application development.
 - 💬 Ask me about JavaScript, React, Node.js, and Python.
 
 ## 📚 Table of Contents
@@ -19,39 +18,20 @@ Hello! I'm John Doe, a passionate software developer with a love for creating in
 
 ## 🚀 Projects
 
-### [Project One](https://github.com/username/ProjectOne)
+### [Personal Portfolio Website](https://jha-divyansh.netlify.app/)
 ![Project One GIF](https://github.com/username/repositoryname/blob/main/assets/project1.gif)
-**Description**: A brief description of what this project is about, its features, and technologies used.
+**Description**: Created a Personal Portfolio Website to showcase my skills to potential recruiters.
 - **Tech Stack**: HTML, CSS, JavaScript
-- **Features**:
-  - Feature 1
-  - Feature 2
 
-### [Project Two](https://github.com/username/ProjectTwo)
-![Project Two GIF](https://github.com/username/repositoryname/blob/main/assets/project2.gif)
-**Description**: A brief description of what this project is about, its features, and technologies used.
-- **Tech Stack**: React, Node.js, MongoDB
-- **Features**:
-  - Feature 1
-  - Feature 2
 
 ## 🛠 Skills
 
-![JavaScript](https://github.com/username/repositoryname/blob/main/assets/javascript.png)
-![Python](https://github.com/username/repositoryname/blob/main/assets/python.png)
-![Java](https://github.com/username/repositoryname/blob/main/assets/java.png)
-![C++](https://github.com/username/repositoryname/blob/main/assets/cplusplus.png)
-![React](https://github.com/username/repositoryname/blob/main/assets/react.png)
-![Node.js](https://github.com/username/repositoryname/blob/main/assets/nodejs.png)
-![Express](https://github.com/username/repositoryname/blob/main/assets/express.png)
-![Django](https://github.com/username/repositoryname/blob/main/assets/django.png)
-![Git](https://github.com/username/repositoryname/blob/main/assets/git.png)
-![Docker](https://github.com/username/repositoryname/blob/main/assets/docker.png)
-![Webpack](https://github.com/username/repositoryname/blob/main/assets/webpack.png)
-![Babel](https://github.com/username/repositoryname/blob/main/assets/babel.png)
-![MongoDB](https://github.com/username/repositoryname/blob/main/assets/mongodb.png)
-![MySQL](https://github.com/username/repositoryname/blob/main/assets/mysql.png)
-![PostgreSQL](https://github.com/username/repositoryname/blob/main/assets/postgresql.png)
+<img src="https://github.com/Divyansh-Jha/Divyansh-Jha/blob/main/images/JavaScript%20GIF.gif?raw=true" alt="JavaScript GIF" width="200" height="100"><img src="https://github.com/Divyansh-Jha/Divyansh-Jha/blob/main/images/Python%20GIF.gif?raw=true" alt="Python GIF" width="200" height="100">
+<img src="https://github.com/Divyansh-Jha/Divyansh-Jha/blob/main/images/HTML%20GIF.gif?raw=true" alt="HTML GIF" width="200" height="100">
+<img src="https://github.com/Divyansh-Jha/Divyansh-Jha/blob/main/images/CSS%20GIF.gif?raw=true" alt="CSS GIF" width="200" height="100">
+<img src="https://github.com/Divyansh-Jha/Divyansh-Jha/blob/main/images/Bootstrap%20GIF.gif?raw=true" alt="Bootstrap GIF" width="200" height="100">
+<img src="https://github.com/Divyansh-Jha/Divyansh-Jha/blob/main/images/JetBrains%20GIF.gif?raw=trueg" alt="PyCharm GIF" width="200" height="100">
+
 
 ## 📫 Contact
 
