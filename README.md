@@ -1,6 +1,6 @@
-## Hi there! Welcome to my Profile👋
+## Hi there! Welcome to my GitHub Profile👋
 
-![Profile Banner](images/Divyansh.png)
+<img src="https://github.com/Divyansh-Jha/Divyansh-Jha/blob/main/images/Divyansh.png?raw=true" alt="Profile Banner" width="300" height="300">
 
 ## 👋 About Me
 
